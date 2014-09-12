@@ -64,42 +64,47 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="StringSwitch.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ibsrapp/coin/StringSwitch.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="23" selection-start="816" selection-end="816" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="782">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NumberUnderLine.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ibsrapp/coin/NumberUnderLine.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="0" selection-start="502" selection-end="502" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Multicatch.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ibsrapp/coin/Multicatch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="39" selection-start="840" selection-end="840" vertical-scroll-proportion="0.0" vertical-offset="175" max-vertical-offset="748">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="29" column="39" selection-start="840" selection-end="840" vertical-scroll-proportion="0.0" vertical-offset="493" max-vertical-offset="748">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DiamondSyntax.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/ibsrapp/coin/DiamondSyntax.java">
+      <file leaf-file-name="PathDemo.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ibsrapp/nio/PathDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="14" selection-start="631" selection-end="631" vertical-scroll-proportion="0.7120419" vertical-offset="0" max-vertical-offset="595">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="16" column="25" selection-start="383" selection-end="383" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="1683">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FilesDemo.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ibsrapp/nio/FilesDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="44" column="32" selection-start="1446" selection-end="1446" vertical-scroll-proportion="0.0" vertical-offset="748" max-vertical-offset="2431">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FilesAttributeDemo.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/ibsrapp/nio/FilesAttributeDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="0" selection-start="217" selection-end="217" vertical-scroll-proportion="0.24142012" vertical-offset="0" max-vertical-offset="845">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FilesWatchService.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ibsrapp/nio/FilesWatchService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="30" selection-start="210" selection-end="210" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="289">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -119,6 +124,9 @@
         <option value="$PROJECT_DIR$/src/com/ibsrapp/coin/Multicatch.java" />
         <option value="$PROJECT_DIR$/src/com/ibsrapp/coin/TryWithResources.java" />
         <option value="$PROJECT_DIR$/src/com/ibsrapp/coin/DiamondSyntax.java" />
+        <option value="$PROJECT_DIR$/src/com/ibsrapp/nio/PathDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/ibsrapp/nio/FilesDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/ibsrapp/nio/FilesAttributeDemo.java" />
       </list>
     </option>
   </component>
@@ -141,7 +149,7 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
-    <option name="STATE" value="2" />
+    <option name="STATE" value="0" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
@@ -156,6 +164,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -191,10 +200,31 @@
               <option name="myItemId" value="ibsrapp" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jdk7code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jdk7code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ibsrapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -209,65 +239,17 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="options.lastSelected" value="preferences.keymap" />
+    <property name="options.lastSelected" value="editing.templates" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
     <property name="recentsLimit" value="5" />
     <property name="dynamic.classpath" value="false" />
     <property name="LayoutCode.rearrangeEntriesJava" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="extract.method.default.visibility" value="private" />
   </component>
-  <component name="RunManager" selected="Application.DiamondSyntax">
-    <configuration default="false" name="StringSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.ibsrapp.coin.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.ibsrapp.coin.StringSwitch" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="jdk7code" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="NumberUnderLine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.ibsrapp.coin.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.ibsrapp.coin.NumberUnderLine" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="jdk7code" />
-      <envs />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.FilesDemo">
     <configuration default="false" name="Multicatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -320,6 +302,56 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.ibsrapp.coin.DiamondSyntax" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="jdk7code" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="PathDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.ibsrapp.nio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.ibsrapp.nio.PathDemo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="jdk7code" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="FilesDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.ibsrapp.nio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.ibsrapp.nio.FilesDemo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -546,19 +578,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.StringSwitch" />
-      <item index="1" class="java.lang.String" itemvalue="Application.NumberUnderLine" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Multicatch" />
-      <item index="3" class="java.lang.String" itemvalue="Application.TryWithResources" />
-      <item index="4" class="java.lang.String" itemvalue="Application.DiamondSyntax" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Multicatch" />
+      <item index="1" class="java.lang.String" itemvalue="Application.TryWithResources" />
+      <item index="2" class="java.lang.String" itemvalue="Application.DiamondSyntax" />
+      <item index="3" class="java.lang.String" itemvalue="Application.PathDemo" />
+      <item index="4" class="java.lang.String" itemvalue="Application.FilesDemo" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.DiamondSyntax" />
-        <item index="1" class="java.lang.String" itemvalue="Application.TryWithResources" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Multicatch" />
-        <item index="3" class="java.lang.String" itemvalue="Application.NumberUnderLine" />
-        <item index="4" class="java.lang.String" itemvalue="Application.StringSwitch" />
+        <item index="0" class="java.lang.String" itemvalue="Application.FilesDemo" />
+        <item index="1" class="java.lang.String" itemvalue="Application.PathDemo" />
+        <item index="2" class="java.lang.String" itemvalue="Application.DiamondSyntax" />
+        <item index="3" class="java.lang.String" itemvalue="Application.TryWithResources" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Multicatch" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -590,23 +622,26 @@
       <created>1410418515738</created>
       <updated>1410418515738</updated>
       <workItem from="1410418523654" duration="248000" />
-      <workItem from="1410418774164" duration="8541000" />
+      <workItem from="1410418774164" duration="8756000" />
+      <workItem from="1410430276947" duration="1503000" />
+      <workItem from="1410486400234" duration="13077000" />
+      <workItem from="1410518698174" duration="116000" />
+      <workItem from="1410518830103" duration="989000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8789000" />
+    <option name="totallyTimeSpent" value="24689000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1696" height="1026" extended-state="7" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -615,16 +650,17 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32960895" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24969475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32960895" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17948718" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23747277" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32960895" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
@@ -650,72 +686,180 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/ibsrapp/coin/StringSwitch.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ibsrapp/coin/Multicatch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="270" selection-end="270" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="408">
+        <state line="29" column="39" selection-start="840" selection-end="840" vertical-scroll-proportion="0.0" vertical-offset="493" max-vertical-offset="748">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ibsrapp/coin/StringSwitch.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ibsrapp/nio/PathDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="23" selection-start="816" selection-end="816" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="782">
+        <state line="16" column="25" selection-start="383" selection-end="383" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="1683">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ibsrapp/coin/NumberUnderLine.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ibsrapp/nio/FilesDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="502" selection-end="502" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
+        <state line="44" column="32" selection-start="1446" selection-end="1446" vertical-scroll-proportion="0.0" vertical-offset="748" max-vertical-offset="2431">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_40/src.zip!/java/io/FileInputStream.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ibsrapp/nio/FilesAttributeDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="35" selection-start="909" selection-end="909" vertical-scroll-proportion="0.0" vertical-offset="217" max-vertical-offset="7191">
+        <state line="10" column="0" selection-start="214" selection-end="214" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="306">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_40/src.zip!/java/io/Closeable.java">
+    <entry file="file://$PROJECT_DIR$/src/com/ibsrapp/nio/FilesWatchService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="17" selection-start="472" selection-end="523" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
+        <state line="9" column="30" selection-start="210" selection-end="210" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="289">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_40/src.zip!/java/io/InputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="54" selection-start="809" selection-end="863" vertical-scroll-proportion="0.0" vertical-offset="166" max-vertical-offset="5933">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ibsrapp/coin/TryWithResources.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="63" selection-start="545" selection-end="545" vertical-scroll-proportion="0.6143106" vertical-offset="22" max-vertical-offset="799">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ibsrapp/coin/Multicatch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="39" selection-start="840" selection-end="840" vertical-scroll-proportion="0.0" vertical-offset="175" max-vertical-offset="748">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="29" column="39" selection-start="840" selection-end="840" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="748">
+          <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ibsrapp/nio/PathDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="25" selection-start="383" selection-end="383" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="1683">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ibsrapp/nio/FilesDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="32" selection-start="1446" selection-end="1446" vertical-scroll-proportion="0.0" vertical-offset="748" max-vertical-offset="2431">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ibsrapp/nio/FilesAttributeDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="214" selection-end="214" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="306">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ibsrapp/nio/FilesWatchService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="30" selection-start="210" selection-end="210" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="289">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ibsrapp/coin/Multicatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="39" selection-start="840" selection-end="840" vertical-scroll-proportion="0.0" vertical-offset="493" max-vertical-offset="748">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ibsrapp/coin/StringSwitch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="0" selection-start="270" selection-end="270" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="408" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ibsrapp/coin/StringSwitch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="23" selection-start="816" selection-end="816" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="782" />
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_40/src.zip!/java/io/FileInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="35" selection-start="909" selection-end="909" vertical-scroll-proportion="0.0" vertical-offset="217" max-vertical-offset="7191" />
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_40/src.zip!/java/io/Closeable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="17" selection-start="472" selection-end="523" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527" />
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_40/src.zip!/java/io/InputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="54" selection-start="809" selection-end="863" vertical-scroll-proportion="0.0" vertical-offset="166" max-vertical-offset="5933" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ibsrapp/coin/TryWithResources.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="63" selection-start="545" selection-end="545" vertical-scroll-proportion="0.6143106" vertical-offset="22" max-vertical-offset="799" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ibsrapp/coin/NumberUnderLine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="13" selection-start="194" selection-end="194" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ibsrapp/coin/DiamondSyntax.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="14" selection-start="631" selection-end="631" vertical-scroll-proportion="0.7120419" vertical-offset="0" max-vertical-offset="595">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="23" column="50" selection-start="616" selection-end="616" vertical-scroll-proportion="0.44942528" vertical-offset="0" max-vertical-offset="870" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ibsrapp/coin/Multicatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="39" selection-start="840" selection-end="840" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="748">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_40/src.zip!/java/nio/file/attribute/BasicFileAttributes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="17" selection-start="725" selection-end="725" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="2159" />
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_40/src.zip!/java/nio/file/attribute/FileAttribute.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="28" selection-start="607" selection-end="627" vertical-scroll-proportion="0.38568935" vertical-offset="0" max-vertical-offset="573" />
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_40/src.zip!/java/nio/file/Watchable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="17" selection-start="821" selection-end="821" vertical-scroll-proportion="0.6230366" vertical-offset="0" max-vertical-offset="1870" />
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_40/src.zip!/java/nio/file/Path.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="98" column="49" selection-start="3992" selection-end="3992" vertical-scroll-proportion="0.15532286" vertical-offset="1135" max-vertical-offset="13277" />
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_40/src.zip!/java/nio/file/Files.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="624" column="56" selection-start="27572" selection-end="27585" vertical-scroll-proportion="0.33333334" vertical-offset="9669" max-vertical-offset="52615" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ibsrapp/nio/PathDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="25" selection-start="383" selection-end="383" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="1683">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ibsrapp/nio/FilesDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="32" selection-start="1446" selection-end="1446" vertical-scroll-proportion="0.0" vertical-offset="1776" max-vertical-offset="2431">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ibsrapp/nio/FilesWatchService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="30" selection-start="210" selection-end="210" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ibsrapp/nio/FilesAttributeDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="217" selection-end="217" vertical-scroll-proportion="0.24142012" vertical-offset="0" max-vertical-offset="845">
+          <folding />
         </state>
       </provider>
     </entry>
