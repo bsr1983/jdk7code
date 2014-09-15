@@ -7,10 +7,7 @@ import java.io.BufferedWriter;
 import java.io.File;
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;
-import java.nio.file.Files;
-import java.nio.file.Path;
-import java.nio.file.Paths;
-import java.nio.file.StandardOpenOption;
+import java.nio.file.*;
 import java.nio.file.attribute.BasicFileAttributes;
 import java.util.Iterator;
 import java.util.List;
@@ -37,6 +34,13 @@ public class FilesDemo {
         readFileAllBytesAndPrint(file2);
         System.out.println("readFileEachLineAndPrint");
         readFileEachLineAndPrint(file3);
+        Path file4=Paths.get(dir.toString(),"demo3.txt");
+        try {
+            Files.copy(file3,file4, StandardCopyOption.REPLACE_EXISTING);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        readFileAllLinesAndPrint(file4);
     }
     public static Path createDir(String dirName)
     {
@@ -134,4 +138,5 @@ public class FilesDemo {
             e.printStackTrace();
         }
     }
+
 }
