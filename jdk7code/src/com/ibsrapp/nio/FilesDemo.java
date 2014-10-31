@@ -40,7 +40,9 @@ public class FilesDemo {
         } catch (IOException e) {
             e.printStackTrace();
         }
-        readFileAllLinesAndPrint(file4);
+//        System.out.println("$sadsad".replace("sadsad","$"));
+//        System.out.println("sadsad.".replaceAll("sadsad","$"));
+//        System.out.println("sadsad".replaceFirst("sadsad","$"));
     }
     public static Path createDir(String dirName)
     {
