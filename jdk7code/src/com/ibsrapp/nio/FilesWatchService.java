@@ -46,8 +46,6 @@ public class FilesWatchService {
         }
         catch (IOException|InterruptedException e) {
             System.out.println(e.toString());
-
-
         }
     }
 }
