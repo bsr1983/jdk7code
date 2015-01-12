@@ -1,4 +1,5 @@
 import java.util.{Date => UDate}
+case class Point(x:Int,y:Int)
 object HelloWorld {
 	def main(args:Array[String])
 	{
@@ -45,6 +46,18 @@ object HelloWorld {
 		var plus20=adder(20);
 		println(plus10(11));
 		println(plus20(plus10(100)));
+    val xaxis=Point(2,0)
+    val yaxis=Point(0,3)
+    var somewhere=Point(3,4)
+    val whereami=(p:Point) =>p match
+    {
+      case Point(x,0)=>"On the x-axis"
+      case Point(0,y)=>"On the y-axis"
+      case _ =>"Out in the plane"
+    }
+    println(whereami(xaxis))
+    println(whereami(yaxis))
+    println(whereami(somewhere))
 	}
 	def storageSize(obj:Any)=obj match
 	{

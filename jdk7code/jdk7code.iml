@@ -2,10 +2,10 @@
 <module type="JAVA_MODULE" version="4">
   <component name="FacetManager">
     <facet type="scala" name="Scala">
-      <configuration>
-        <option name="compilerLibraryLevel" value="Project" />
-        <option name="compilerLibraryName" value="scala-compiler" />
-      </configuration>
+      <configuration />
+    </facet>
+    <facet type="Clojure" name="Clojure">
+      <configuration />
     </facet>
   </component>
   <component name="NewModuleRootManager" inherit-compiler-output="true">
@@ -26,6 +26,7 @@
       </library>
     </orderEntry>
     <orderEntry type="library" name="scala-actors" level="project" />
+    <orderEntry type="library" name="clojure" level="project" />
   </component>
 </module>
 

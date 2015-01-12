@@ -19,6 +19,10 @@ public class GroovyScriptEngineDemo {
             binding.setVariable("name","billlee");
             Object object=groovyScriptEngine.run("hello.groovy",binding);
             System.out.println("output "+object.toString());
+            int now=(int)(System.currentTimeMillis()/1000);
+
+            //-856159
+            System.out.println(now);
         } catch (Exception e) {
             e.printStackTrace();
             System.out.println("Exception e="+e.toString());
